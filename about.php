@@ -21,47 +21,6 @@
             <div class="pattern bottom"></div>
         </section>
 
-
-<div class="row">
-    <div class="col-6">
-        <div class="profile-card mt-6">
-            <div class="card shadow-soft border-light text-center">
-                <div class="profile-image">
-                    <img src="../../assets/img/team/6.jpg" class="card-img-top " alt="image">
-                </div>
-                <div class="card-body mt-n5">
-                    <h5 class="card-title">Larry Morrison</h5>
-                    <h6 class="card-subtitle">Director</h6>
-                    <p class="card-text my-2">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <ul class="social-buttons py-3">
-                        <li>
-                            <a href="#" target="_blank" class="btn btn-link btn-facebook">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" target="_blank" class="btn btn-link btn-twitter">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" target="_blank" class="btn btn-link btn-slack">
-                                <i class="fab fa-slack-hash"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" target="_blank" class="btn btn-link btn-dribbble">
-                                <i class="fab fa-dribbble"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
         <section class="section section-lg pt-0">
             <div class="container mt-n7 mt-lg-n13 z-2">
                     <div class="col-12 col-lg-12">

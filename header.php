@@ -60,25 +60,25 @@
 
 <!-- Favicon -->
 <!-- Favicon -->
-<link rel="apple-touch-icon" sizes="120x120" href="../assets/img/ministry.png">
-<link rel="icon" type="image/png" sizes="32x32" href="../assets/img/ministry.png">
-<link rel="icon" type="image/png" sizes="16x16" href="../assets/img/ministry.png">
-<link rel="manifest" href="../assets/img/favicon/site.webmanifest">
-<link rel="mask-icon" href="../assets/img/favicon/safari-pinned-tab.svg" color="#ffffff">
+<link rel="apple-touch-icon" sizes="120x120" href="front/assets/img/ministry.png">
+<link rel="icon" type="image/png" sizes="32x32" href="front/assets/img/ministry.png">
+<link rel="icon" type="image/png" sizes="16x16" href="front/assets/img/ministry.png">
+<link rel="manifest" href="front/assets/img/favicon/site.webmanifest">
+<link rel="mask-icon" href="front/assets/img/favicon/safari-pinned-tab.svg" color="#ffffff">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
 <!-- Fontawesome -->
-<link type="text/css" href="../../vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+<link type="text/css" href="vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 
 <!-- Nucleo icons -->
-<link rel="stylesheet" href="../../dashboard/assets/vendor/nucleo/css/nucleo.css" type="text/css">
+<link rel="stylesheet" href="dashboard/assets/vendor/nucleo/css/nucleo.css" type="text/css">
 
 <!-- Prism -->
-<link type="text/css" href="../../vendor/prismjs/themes/prism.css" rel="stylesheet">
+<link type="text/css" href="vendor/prismjs/themes/prism.css" rel="stylesheet">
 
 <!-- Front CSS -->
-<link type="text/css" href="../css/front.css" rel="stylesheet">
+<link type="text/css" href="front/css/front.css" rel="stylesheet">
 
 <!-- Global site tag (gtag.js) - Google Analytics
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141734189-1"></script>
@@ -93,18 +93,18 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <header class="header-global">
-    <nav id="navbar-main" class="navbar navbar-main navbar-expand-lg headroom py-lg-3 px-lg-6 navbar-dark navbar-theme-primary">
+    <nav id="navbar-main" class="navbar navbar-main navbar-expand-lg headroom py-lg-3 px-lg-6 navbar-light navbar-theme-primary">
         <div class="container">
-            <a class="navbar-brand @@logo_classes" href="../../index.html">
-                <img class="navbar-brand-dark common" src="../assets/img/ministry.png" height="35" alt="Logo light">
-                <img class="navbar-brand-light common" src="../assets/img/ministry.png" height="35" alt="Logo dark">
+            <a class="navbar-brand @@logo_classes" href="index.html">
+                <img class="navbar-brand-dark common" src="front/assets/img/ministry.png" height="35" alt="Logo light">
+                <img class="navbar-brand-light common" src="front/assets/img/ministry.png" height="35" alt="Logo dark">
             </a>
             <div class="navbar-collapse collapse" id="navbar_global">
                 <div class="navbar-collapse-header">
                     <div class="row">
                         <div class="col-6 collapse-brand">
-                            <a href="../../index">
-                                <img src="../assets/img/ministry.png" height="35" alt="Logo Impact">
+                            <a href="index">
+                                <img src="front/assets/img/ministry.png" height="35" alt="Logo Impact">
                             </a>
                         </div>
                         <div class="col-6 collapse-close">
@@ -116,10 +116,10 @@
                 </div>
                 <ul class="navbar-nav navbar-nav-hover justify-content-center">
                     <li class="nav-item">
-                        <a href="../../index" class="nav-link">Home</a>
+                        <a href="index" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="../../about" class="nav-link">About us</a>
+                        <a href="about" class="nav-link">About us</a>
                     </li>
 
 

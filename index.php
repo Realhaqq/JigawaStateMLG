@@ -4,7 +4,7 @@
         <div class="preloader bg-soft flex-column justify-content-center align-items-center">
     <div class="loader-element">
         <span class="loader-animated-dot"></span>
-        <img src="../assets/img/ministry.png" height="40" alt="Ministry logo">
+        <img src="front/assets/img/ministry.png" height="40" alt="Ministry logo">
     </div>
 </div>
 
@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-12 col-md-6 order-2 order-lg-1">
-                    <img src="../assets/img/illustrations/hero-illustration.svg" alt="">
+                    <img src="front/assets/img/illustrations/hero-illustration.svg" alt="">
                     </div>
                     <div class="col-12 col-md-5 order-1 order-lg-2">
                           <h3 class="display-2 mb-3">Jigawa State Ministry for 
@@ -51,7 +51,7 @@ Local Government</h3>
                         </a>
                     </div>
                     <div class="col-12 col-md-6 ml-md-auto">
-                        <img src="../assets/img/illustrations/feature-illustration.svg" alt="">
+                        <img src="front/assets/img/illustrations/feature-illustration.svg" alt="">
                     </div>
                 </div>
                 <div class="row row-grid align-items-center mb-5 mb-md-7">
@@ -70,7 +70,7 @@ He attended Bichi Teachers’ College from 1974 to 1976 where he obtained a Grad
                         </a>
                     </div>
                     <div class="col-12 col-md-6 mr-lg-auto">
-                        <img width="400px" src="../assets/img/Sagungun.jpg" alt="">
+                        <img width="400px" src="front/assets/img/Sagungun.jpg" alt="">
                     </div>
                 </div>
                 <div class="row">
